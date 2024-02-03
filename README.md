@@ -20,3 +20,5 @@ After discovering my passion for front-end development, I couldn’t get enough.
  - 🔭 I’m currently working on Juventus web app,working on the dashboard layout,add matches & players functionality to firebase.
  - 🌱 I’m currently learning Next JS.
  - ⚡ Fun fact: Juventus fan, fino alla fine!
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
